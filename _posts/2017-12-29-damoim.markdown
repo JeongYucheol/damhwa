@@ -3,7 +3,7 @@ layout: post
 title:  다모임
 date:   2017-12-29 22:24:20 +0300
 description: 눈이 뜨고 보니 그곳은 다모임이었다. 사랑이었다. # Add post description (optional)
-img: post-2.png # Add image post (optional)
+img: 1.gif # Add image post (optional)
 tags: [words, images]
 author: Nature # Add name author (optional)
 ---
