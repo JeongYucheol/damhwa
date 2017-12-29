@@ -11,24 +11,25 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Damhwa # add your name
 author-pic: face.png
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+about-author: Although a lot of words are appeared , A lot of words disappear everyday like us.
+훌쩍 다가왔다 사라지는 단어들을 추억해본다는 목적을 가지고, 내가 하고싶은 것을 해본다. 누군가에게는 특별한 영감이 되길 빈다.
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
+email: nature.jeong.nj@gmail.com # Add your Email address
+phone: 이거까면 신상털리겠지 # Add your Phone number
+website: damhwa.kr # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: damhwa # Add your Github handle
+twitter: # Add your Twitter handle
 facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
+instagram: goodbyewords # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: nature # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
