@@ -4,7 +4,7 @@ title:  다모임
 date:   2017-12-29 22:24:20 +0300
 description: 눈이 뜨고 보니 그곳은 다모임이었다. 사랑이었다. # Add post description (optional)
 img: 1.gif # Add image post (optional)
-tags: [words, images]
+tags: [words, gifs]
 author: Nature # Add name author (optional)
 ---
 싸이월드의 도토리를 줍기 훨씬 전, 우리는 다모임에 다모여, 하루의 일과를 정리했고, 많은 이야기들을 나누며 서로의 존재를 남겼다. SNS라는 개념을 알 수도 없었던 그 시절, 그 곳엔 '사랑' 이 있었다. 나의 첫 사랑은 '다모임' 과 함께 있다.
