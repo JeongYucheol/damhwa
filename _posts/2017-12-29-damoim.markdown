@@ -3,7 +3,7 @@ layout: post
 title:  다모임
 date:   2017-12-29 22:24:20 +0300
 description: 눈이 뜨고 보니 그곳은 다모임이었다. 사랑이었다. # Add post description (optional)
-img: 1.gif # Add image post (optional)
+img: 2.gif # Add image post (optional)
 tags: [words, gifs]
 author: Nature # Add name author (optional)
 ---
@@ -12,4 +12,4 @@ author: Nature # Add name author (optional)
 > 지금 30대에게 추억의 사이트를 묻는다면 단연 ‘다모임’을 한손에 꼽는다. ‘아이러브스쿨’이 졸업생을 찾았다면 ‘다모임’은 당시 중·고등학교 재학생 사이에 초등학교 동창 찾기의 붐을 일으켰다. 고등학생이 초등학교 동창을 찾는 것 뿐만아니라 같은 고등학교 재학생끼리도 새로운 만남의 장이 되었기에 ‘아이러브스쿨’과는 달리 차별화된 재학생 커뮤니티로 사랑받았다.
 하지만 잘 나가던 ‘다모임’도 ‘아이러브스쿨’과 마찬가지로 ‘동창 찾기’라는 사회 트렌드가 점차 시들해지고, 그룹 중심에서 개인 중심의 커뮤니티가 발전하면서 개인 블로그와 싸이월드가 활성화되며 자연스럽게 추억 속으로 사라지게 됐다. 더욱 아쉬운 점은 ‘다모임’의 흔적은 어디에서도 찾아볼 수 없다는 것. 한때 ‘다모임’은 SM엔터테인먼트에 인수되어 스타 커뮤니티 아이플과 동영상 포털 ‘아우라’로 변신해 동영상 UCC 선두업체로 발돋움하기도 했지만 별다른 수익성이 없어 서비스가 종료됐다.
 
-![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
+![connection]({{site.baseurl}}/assets/img/1.gif)
