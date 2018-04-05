@@ -1454,6 +1454,11 @@ pre code {
   max-width: 90%;
   margin: 0 auto;
 }
+.big-wrapper {
+  width: 1600px;
+  max-width: 90%;
+  margin: 0 auto;
+}
 
 .about-container {
   margin: 100px 0 100px;
