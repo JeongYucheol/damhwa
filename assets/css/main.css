@@ -1600,7 +1600,9 @@ pre code {
       -ms-flex-align: center;
           align-items: center;
   margin-top: -150px;
-  padding-bottom: 30px
+  margin-left: -150px;
+  padding-bottom: 30px;
+  padding-left: 300px;
 
 }
 .txt1 {
