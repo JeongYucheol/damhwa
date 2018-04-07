@@ -861,8 +861,8 @@ pre code {
 }
 
 .wrapper {
-  width: 960px;
-  max-width: 90%;
+  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
   position: relative;
 }
@@ -1458,6 +1458,7 @@ pre code {
   width: 2000px;
   max-width: 90%;
   margin: 0 auto;
+  background-color: #141414;
 }
 
 .about-container {
