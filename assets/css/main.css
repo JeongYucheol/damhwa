@@ -1586,7 +1586,8 @@ pre code {
   text-align: center;
 }
 .txtbox{
-  width: 1000px;
+  width: 600px;
+  margin: auto;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1600,9 +1601,7 @@ pre code {
       -ms-flex-align: center;
           align-items: center;
   margin-top: -150px;
-  margin-left: -150px;
-  padding-bottom: 30px;
-  padding-left: 300px;
+
 
 }
 .txt1 {
