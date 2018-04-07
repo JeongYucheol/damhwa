@@ -1543,6 +1543,7 @@ pre code {
 .project-container {
   margin: 100px 0 100px;
   background-color: #141414;
+
 }
 
 .project-header {
@@ -1582,7 +1583,7 @@ pre code {
 }
 
 .project-body .contact-list {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   list-style: none;
   text-align: center;
