@@ -1587,8 +1587,9 @@ pre code {
 }
 .txtbox{
   width: 600px;
+  padding-left: 100px;
   margin: auto;
-  
+
   margin-top: -150px;
 
 
