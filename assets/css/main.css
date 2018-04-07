@@ -1584,11 +1584,15 @@ pre code {
 }
 
 .project-body .contact-list {
-  width: 1600px;
   margin: 0 auto;
   padding: 0;
   list-style: none;
   text-align: center;
+  display:block;
+}
+.txt_box{
+margin: 0 auto;
+display: block;
 }
 
 .txt1 {
