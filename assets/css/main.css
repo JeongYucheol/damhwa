@@ -1455,8 +1455,7 @@ pre code {
   margin: 0 auto;
 }
 .big-wrapper {
-  width: 95%;
-  max-width: 100%;
+  width: 100%;
   margin: 0 auto;
   background-color: #141414;
 }
@@ -1541,9 +1540,9 @@ pre code {
 }
 
 .project-container {
-  width:95%;
+  width:90%;
   margin: 0 auto;
-  background-color: #141414;
+
 
 }
 
