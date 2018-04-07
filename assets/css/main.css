@@ -1456,7 +1456,7 @@ pre code {
 }
 .big-wrapper {
   width: 2000px;
-  max-width: 90%;
+  max-width: 100%;
   margin: 0 auto;
   background-color: #141414;
 }
