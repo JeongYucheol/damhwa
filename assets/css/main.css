@@ -788,8 +788,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
-  color: #ffffff;
-  font-weight: 800;
+  color: #311e3e;
+  font-weight: 400;
 }
 
 img {
@@ -1591,7 +1591,12 @@ pre code {
   text-align: center;
   display:block;
 }
-
+.title1{
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 40px;
+  color: #fff;
+}
 .txt1 {
   font-family: 'Noto Sans', sans-serif;
   font-weight: 300;
