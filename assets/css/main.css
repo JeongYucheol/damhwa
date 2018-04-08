@@ -1590,6 +1590,11 @@ pre code {
   text-align: center;
   display:block;
 }
+.img100{
+  width:100%;
+  margin: 0 auto;
+}
+
 .fixed1{
 width: 100%;
   background: url("{{site.baseurl}}/assets/img/sellev/03.gif") no-repeat center;
