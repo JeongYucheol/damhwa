@@ -1590,7 +1590,10 @@ pre code {
   text-align: center;
   display:block;
 }
-
+.fixed1{
+  background: url("{{site.baseurl}}/assets/img/sellev/03.gif") no-repeat center;
+  background-attachment: fixed;
+}
 .txt1 {
   font-family: 'Noto Sans', sans-serif;
   font-weight: 300;
