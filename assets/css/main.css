@@ -1592,12 +1592,6 @@ pre code {
   display:block;
 }
 
-.fixed1{
-width: 100%;
-height: 100%;
-background-image: url(/assets/img/sellev/nike_sellev.png);
-background-attachment: fixed;
-}
 .txt1 {
   font-family: 'Noto Sans', sans-serif;
   font-weight: 300;
