@@ -1591,13 +1591,14 @@ pre code {
   display:block;
 }
 .img100{
-  width:100%;
-  margin: 0 auto;
+  width:100% !important;
+  margin: 0 auto !important;
 }
 
 .fixed1{
 width: 100%;
-  background: url("{{site.baseurl}}/assets/img/sellev/03.gif") no-repeat center;
+height: 800px;
+  background: url("/assets/img/sellev/03.gif") no-repeat center;
   background-attachment: fixed;
 }
 .txt1 {
