@@ -793,6 +793,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 img {
+  width: 100%;
   height: auto;
   max-width: 100%;
 }
@@ -1589,10 +1590,6 @@ pre code {
   list-style: none;
   text-align: center;
   display:block;
-}
-.img100{
-  width:100% !important;
-  margin: 0 auto !important;
 }
 
 .fixed1{
