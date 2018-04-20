@@ -1631,17 +1631,15 @@ transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
 }
 /* = = = = = = = = = = responsive Page Styles = = = = = = = = = = */
 #res1{
-  width: 400px;
-  height: 400px;
+  width: 300px;
+  height: 300px;
   margin: 0 auto;
-  background-image: url({{site.baseurl}}/assets/img/responsive/logo.svg);
+  background-image: url({{site.baseurl}}/assets/img/responsive/logo.svg) no-repeat center;
   background-size: auto;
 }
 #res2{
-  width: 400px;
-  height: 400px;
-  margin: 0 auto;
-  background-image: url({{site.baseurl}}/assets/img/responsive/logo.svg);
+
+  background-image: url({{site.baseurl}}/assets/img/responsive/logo.svg) no-repeat center;
 }
 
 /* = = = = = = = = = = Tags Styles = = = = = = = = = = */
@@ -1875,15 +1873,11 @@ transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
     margin: 0 0 15px;
   }
   #res1{
-    width: 200px;
-    height: 200px;
-    margin: 0 auto;
+
     background-image: url({{site.baseurl}}/assets/img/responsive/logo_small.svg) no-repeat center;
   }
   #res2{
-    width: 200px;
-    height: 200px;
-    margin: 0 auto;
+
     background-image: url({{site.baseurl}}/assets/img/responsive/logo_small_black.svg) no-repeat center;
   }
 
